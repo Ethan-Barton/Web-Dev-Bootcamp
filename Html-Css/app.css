@@ -1,0 +1,37 @@
+/* <style type="text/css">
+		selector {
+			property: value; 
+		}
+		h1{
+			color: purple;
+		}
+		li{
+			color: orange;
+		}
+	</style>
+*/
+h1{
+	color: #FF0000;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+
+li{
+	color: rgb(0,255,0);
+}
+
+/*h4{
+	color: rgba(11,99,150,.3);
+}*/
+
+h4{
+	background: rgb(255,100,80);
+}
+
+body{
+	background: pink;
+	/*background: url(https://media.nbcdfw.com/images/652*367/Texas-Tech-logo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

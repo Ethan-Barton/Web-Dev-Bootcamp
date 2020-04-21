@@ -1,0 +1,15 @@
+span{
+    color: rgba(125, 118, 117, .6);
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+#coffee {
+    font-size: 2em;
+}
+
+#delete {
+    display: inline;
+}
